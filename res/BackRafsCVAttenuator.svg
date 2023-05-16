@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+  <rect width="300" height="300" fill="#2c2c2c" />
+  <circle cx="64" cy="32" r="10" fill="black" />
+  <circle cx="64" cy="64" r="10" fill="black" />
+  <circle cx="64" cy="96" r="10" fill="black" />
+  <text x="50%" y="40%" dominant-baseline="middle" text-anchor="middle" fill="white" font-size="12" font-family="Arial">Raf's CV Attenuator</text>
+</svg>

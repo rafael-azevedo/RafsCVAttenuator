@@ -1,0 +1,23 @@
+{
+    "slug": "RafsCVAttenuator",
+    "version": "2.3.0",
+    "name": "Raf's CV Attenuator",
+    "license": "MIT",
+    "brand": "rafulations",
+    "author": "Raf",
+    "authorEmail": "raf@example.com",
+    "authorUrl": "http://example.com",
+    "pluginUrl": "http://example.com",
+    "manualUrl": "http://example.com",
+    "sourceUrl": "http://example.com",
+    "donateUrl": "http://example.com",
+    "modules": [
+      {
+        "slug": "RafsCVAttenuator",
+        "name": "Raf's CV Attenuator",
+        "description": "A CV Attenuator with 3 knobs",
+        "tags": ["Attenuator"]
+      }
+    ]
+  }
+  
